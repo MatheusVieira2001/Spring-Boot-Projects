@@ -6,3 +6,4 @@
 - Documentation with SpringDoc and Swagger for all types of requests
 - Personalized responses
 - Hateoas
+- Json Response
